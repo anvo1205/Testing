@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Parallel" thread-count="2" parallel="tests">
+    <test name="SingleTestChrome">
+        <parameter name="config" value="parallel.conf.json"/>
+        <parameter name="environment" value="chrome"/>
+        <classes>
+            <class name="Testcase.MP_FreeSignUp2Publish"/>
+        </classes>
+    </test>
+    
+    <test name="SingleTestFirefox">
+        <parameter name="config" value="parallel.conf.json"/>
+        <parameter name="environment" value="chrome"/>
+        <classes>
+            <class name="Testcase.MP_MPreSignUp2PNGDownload"/>
+        </classes>
+    </test>
+    </suite>

@@ -1,0 +1,18 @@
+{
+"Business_Plan_1":
+{"amount":4900,"product":"prod_BU5CeYNzT2kQaR","metadata":{},"livemode":false,"created":1461339583,"active":true,"intervalCount":1,"billingScheme":"per_unit","name":"Business Monthly (USD)","interval":"month","currency":"usd","id":"Business_Plan_1","object":"plan","usageType":"licensed"},
+"Business_Plan_3":
+{"amount":12900,"product":"prod_BTzH2l3bqLB1No","metadata":{},"livemode":false,"created":1462565388,"active":true,"intervalCount":3,"billingScheme":"per_unit","name":"Business Quarterly (USD)","interval":"month","currency":"usd","id":"Business_Plan_3","object":"plan","usageType":"licensed"},
+"Business_Plan_12":
+{"amount":46800,"product":"prod_BUDvOqtJBtElgZ","metadata":{},"livemode":false,"created":1463671789,"active":true,"intervalCount":1,"billingScheme":"per_unit","name":"Business Yearly (USD)","interval":"year","currency":"usd","id":"Business_Plan_12","object":"plan","usageType":"licensed"},
+"Infographic_Premium_1":
+{"interval_count":1,"amount":1900,"metadata":{},"product":"prod_BUYFKNuwHwNHNW","tiers":null,"livemode":false,"created":1429898461,"transform_usage":null,"active":true,"billing_scheme":"per_unit","trial_period_days":null,"tiers_mode":null,"statement_descriptor":null,"deleted":null,"usage_type":"licensed","nickname":null,"name":"Infographics Monthly (USD)","currency":"usd","interval":"month","id":"Infographic_Premium_1","object":"plan","statement_description":null},"billing_cycle_anchor":"20180702","current_period_start":"20180702","billing":"charge_automatically"}
+"Infographic_Premium_3":
+{"amount":4900,"product":"prod_BU3rFfE2H3w0qE","metadata":{},"livemode":false,"created":1429898419,"active":true,"intervalCount":3,"billingScheme":"per_unit","name":"Infographics Quarterly (USD)","interval":"month","currency":"usd","id":"Infographic_Premium_3","object":"plan","usageType":"licensed"},
+"Infographic_Premium_12":
+{"amount":19000,"product":"prod_BV7x5gmik9GgOq","metadata":{},"livemode":false,"created":1429898377,"active":true,"intervalCount":1,"billingScheme":"per_unit","name":"Infographics Yearly (USD)","interval":"year","currency":"usd","id":"Infographic_Premium_12","object":"plan","usageType":"licensed"},
+"Education_Plan_1_1":
+{"amount":2900,"product":"prod_BU0reXtLs4yNuk","metadata":{},"livemode":false,"trialPeriodDays":14,"created":1429897834,"active":true,"intervalCount":1,"billingScheme":"per_unit","name":"Education 35 Monthly (USD)","interval":"month","currency":"usd","id":"Education_Plan_1_1","object":"plan","usageType":"licensed"},
+"Education_Plan_1_12":
+{"amount":9900,"product":"prod_BUfEtoXKCUvr85","metadata":{},"livemode":false,"trialPeriodDays":14,"created":1429897794,"active":true,"intervalCount":1,"billingScheme":"per_unit","name":"Education 35 Yearly (USD)","interval":"year","currency":"usd","id":"Education_Plan_1_12","object":"plan","usageType":"licensed"}
+}

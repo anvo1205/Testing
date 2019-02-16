@@ -1,0 +1,19 @@
+function main()
+{
+  return join(
+    Events({
+      from_date: 'from_today',
+      to_date: 'to_today',
+      event_selectors: [
+        {event: 'eventName'}]
+    }), 
+    People(),
+    {
+      type:"left",
+      selectors:[{selector:
+        'user["$email"] == "testemail@venngage.com"'}]
+    }
+    ).map(function (item){
+        return item.event;
+    });
+}

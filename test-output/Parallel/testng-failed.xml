@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" parallel="tests" name="Failed suite [Parallel]" guice-stage="DEVELOPMENT">
+  <test thread-count="2" parallel="tests" name="SingleTestFirefox(failed)">
+    <parameter name="environment" value="chrome"/>
+    <parameter name="config" value="parallel.conf.json"/>
+    <classes>
+      <class name="Testcase.MP_MPreSignUp2PNGDownload">
+        <methods>
+          <include name="e_ClickOnCreateFromTemplates"/>
+          <include name="e_ClickOnbSurveyAnwser"/>
+          <include name="intercomEvents"/>
+          <include name="e_FinishOnbSurvey"/>
+          <include name="beforeMethod"/>
+          <include name="verifyEventsGenerated"/>
+          <include name="e_FinishEditorTourGuide"/>
+          <include name="e_Download"/>
+          <include name="tearDown"/>
+          <include name="e_ClickCancelSubscription"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- Testcase.MP_MPreSignUp2PNGDownload -->
+    </classes>
+  </test> <!-- SingleTestFirefox(failed) -->
+  <test thread-count="2" parallel="tests" name="SingleTestChrome(failed)">
+    <parameter name="environment" value="chrome"/>
+    <parameter name="config" value="parallel.conf.json"/>
+    <classes>
+      <class name="Testcase.MP_FreeSignUp2Publish">
+        <methods>
+          <include name="e_onbSurveyAnwser"/>
+          <include name="verifyEventsGenerated"/>
+          <include name="intercomEvents"/>
+          <include name="e_ClickOnPublish"/>
+          <include name="e_ClickOnCreateFromBlank"/>
+          <include name="beforeClass"/>
+          <include name="e_FinishEditorTourGuide"/>
+          <include name="e_ClickNavigation"/>
+          <include name="tearDown"/>
+          <include name="e_FinishOnbSurvey"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- Testcase.MP_FreeSignUp2Publish -->
+    </classes>
+  </test> <!-- SingleTestChrome(failed) -->
+</suite> <!-- Failed suite [Parallel] -->

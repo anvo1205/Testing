@@ -1,0 +1,18 @@
+{
+  "server": "hub-cloud.browserstack.com",
+  "user": "anvo26",
+  "key": "wMSQsxpVp8FUxMqtiVhK",
+
+  "capabilities": {
+    "browserstack.debug": true,
+    "os": "Windows",
+	"os_version": "10",
+	"resolution": "1920x1080"
+  },
+
+  "environments": {
+    "chrome": {
+      "browser": "chrome"
+  }
+}
+}

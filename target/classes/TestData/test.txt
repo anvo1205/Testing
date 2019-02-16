@@ -1,0 +1,745 @@
+[
+  {
+    "name": "Visit Homepage",
+    "distinct_id": "164d788483c106-0dd5a070fcdbed-47e1039-1fa400-164d788483e7a",
+    "labels": [],
+    "time": 1532609988000,
+    "sampling_factor": 1,
+    "dataset": "$mixpanel",
+    "properties": {
+      "$browser": "Chrome",
+      "$browser_version": 67,
+      "$city": "Toronto",
+      "$current_url": "https://venngage.beer/",
+      "$initial_referrer": "$direct",
+      "$initial_referring_domain": "$direct",
+      "$lib_version": "2.22.4",
+      "$os": "Windows",
+      "$region": "Ontario",
+      "$screen_height": 1080,
+      "$screen_width": 1920,
+      "mp_country_code": "CA",
+      "mp_lib": "web"
+    }
+  },
+  {
+    "name": "Register",
+    "distinct_id": "164d788483c106-0dd5a070fcdbed-47e1039-1fa400-164d788483e7a",
+    "labels": [],
+    "time": 1532609992000,
+    "sampling_factor": 1,
+    "dataset": "$mixpanel",
+    "properties": {
+      "$browser": "Chrome",
+      "$initial_referring_domain": "$direct",
+      "Method": "Email",
+      "mp_lib": "php"
+    }
+  },
+  {
+    "name": "Upgrade Business Modal",
+    "distinct_id": "164d788483c106-0dd5a070fcdbed-47e1039-1fa400-164d788483e7a",
+    "labels": [],
+    "time": 1532609996000,
+    "sampling_factor": 1,
+    "dataset": "$mixpanel",
+    "properties": {
+      "$browser": "Chrome",
+      "$browser_version": 67,
+      "$city": "Toronto",
+      "$current_url": "https://infograph.venngage.beer/account/subscription",
+      "$initial_referrer": "$direct",
+      "$initial_referring_domain": "$direct",
+      "$lib_version": "2.22.4",
+      "$os": "Windows",
+      "$referrer": "https://infograph.venngage.beer/signup/business/monthly",
+      "$referring_domain": "infograph.venngage.beer",
+      "$region": "Ontario",
+      "$screen_height": 1080,
+      "$screen_width": 1920,
+      "mp_country_code": "CA",
+      "mp_lib": "web"
+    }
+  },
+  {
+    "name": "Brand Onboarding Modal",
+    "distinct_id": "164d788483c106-0dd5a070fcdbed-47e1039-1fa400-164d788483e7a",
+    "labels": [],
+    "time": 1532610001000,
+    "sampling_factor": 1,
+    "dataset": "$mixpanel",
+    "properties": {
+      "$browser": "expected_browser",
+      "$browser_version": 67,
+      "$city": "Toronto",
+      "$current_url": "https://infograph.venngage.beer/account/subscription",
+      "$initial_referrer": "$direct",
+      "$initial_referring_domain": "$direct",
+      "$lib_version": "2.22.4",
+      "$os": "Windows",
+      "$referrer": "https://infograph.venngage.beer/signup/business/monthly",
+      "$referring_domain": "infograph.venngage.beer",
+      "$region": "Ontario",
+      "$screen_height": 1080,
+      "$screen_width": 1920,
+      "Button Number": "Get Started",
+      "Step 1": true,
+      "mp_country_code": "CA",
+      "mp_lib": "web"
+    }
+  },
+  {
+    "name": "Upgrade Business",
+    "distinct_id": "164d788483c106-0dd5a070fcdbed-47e1039-1fa400-164d788483e7a",
+    "labels": [],
+    "time": 1532610001000,
+    "sampling_factor": 1,
+    "dataset": "$mixpanel",
+    "properties": {
+      "$browser": "Chrome",
+      "$browser_version": 67,
+      "$city": "Toronto",
+      "$current_url": "https://infograph.venngage.beer/account/subscription",
+      "$initial_referrer": "$direct",
+      "$initial_referring_domain": "$direct",
+      "$lib_version": "2.22.4",
+      "$os": "Windows",
+      "$referrer": "https://infograph.venngage.beer/signup/business/monthly",
+      "$referring_domain": "infograph.venngage.beer",
+      "$region": "Ontario",
+      "$screen_height": 1080,
+      "$screen_width": 1920,
+      "mp_country_code": "CA",
+      "mp_lib": "web"
+    }
+  },
+  {
+    "name": "Load Onboarding Survey",
+    "distinct_id": "164d788483c106-0dd5a070fcdbed-47e1039-1fa400-164d788483e7a",
+    "labels": [],
+    "time": 1532610001000,
+    "sampling_factor": 1,
+    "dataset": "$mixpanel",
+    "properties": {
+      "$browser": "Chrome",
+      "$browser_version": 67,
+      "$city": "Toronto",
+      "$current_url": "https://infograph.venngage.beer/onboarding",
+      "$initial_referrer": "$direct",
+      "$initial_referring_domain": "$direct",
+      "$lib_version": "2.22.4",
+      "$os": "Windows",
+      "$referrer": "https://infograph.venngage.beer/account/subscription",
+      "$referring_domain": "infograph.venngage.beer",
+      "$region": "Ontario",
+      "$screen_height": 1080,
+      "$screen_width": 1920,
+      "mp_country_code": "CA",
+      "mp_lib": "web",
+      "version": "3"
+    }
+  },
+  {
+    "name": "Click Onboarding Survey Answer",
+    "distinct_id": "164d788483c106-0dd5a070fcdbed-47e1039-1fa400-164d788483e7a",
+    "labels": [],
+    "time": 1532610002000,
+    "sampling_factor": 1,
+    "dataset": "$mixpanel",
+    "properties": {
+      "$browser": "Chrome",
+      "$browser_version": 67,
+      "$city": "Toronto",
+      "$current_url": "https://infograph.venngage.beer/onboarding",
+      "$initial_referrer": "$direct",
+      "$initial_referring_domain": "$direct",
+      "$lib_version": "2.22.4",
+      "$os": "Windows",
+      "$referrer": "https://infograph.venngage.beer/account/subscription",
+      "$referring_domain": "infograph.venngage.beer",
+      "$region": "Ontario",
+      "$screen_height": 1080,
+      "$screen_width": 1920,
+      "mp_country_code": "CA",
+      "mp_lib": "web",
+      "organization": "sm-business",
+      "step": 1,
+      "version": "3"
+    }
+  },
+  {
+    "name": "Click Onboarding Survey Answer",
+    "distinct_id": "164d788483c106-0dd5a070fcdbed-47e1039-1fa400-164d788483e7a",
+    "labels": [],
+    "time": 1532610003000,
+    "sampling_factor": 1,
+    "dataset": "$mixpanel",
+    "properties": {
+      "$browser": "Chrome",
+      "$browser_version": 67,
+      "$city": "Toronto",
+      "$current_url": "https://infograph.venngage.beer/onboarding",
+      "$initial_referrer": "$direct",
+      "$initial_referring_domain": "$direct",
+      "$lib_version": "2.22.4",
+      "$os": "Windows",
+      "$referrer": "https://infograph.venngage.beer/account/subscription",
+      "$referring_domain": "infograph.venngage.beer",
+      "$region": "Ontario",
+      "$screen_height": 1080,
+      "$screen_width": 1920,
+      "mp_country_code": "CA",
+      "mp_lib": "web",
+      "role": "marketer",
+      "step": 2,
+      "version": "3"
+    }
+  },
+  {
+    "name": "Click Onboarding Survey Answer",
+    "distinct_id": "164d788483c106-0dd5a070fcdbed-47e1039-1fa400-164d788483e7a",
+    "labels": [],
+    "time": 1532610003000,
+    "sampling_factor": 1,
+    "dataset": "$mixpanel",
+    "properties": {
+      "$browser": "Chrome",
+      "$browser_version": 67,
+      "$city": "Toronto",
+      "$current_url": "https://infograph.venngage.beer/onboarding",
+      "$initial_referrer": "$direct",
+      "$initial_referring_domain": "$direct",
+      "$lib_version": "2.22.4",
+      "$os": "Windows",
+      "$referrer": "https://infograph.venngage.beer/account/subscription",
+      "$referring_domain": "infograph.venngage.beer",
+      "$region": "Ontario",
+      "$screen_height": 1080,
+      "$screen_width": 1920,
+      "goal": "presentations",
+      "mp_country_code": "CA",
+      "mp_lib": "web",
+      "step": 3,
+      "version": "3"
+    }
+  },
+  {
+    "name": "Click Onboarding Style Answer",
+    "distinct_id": "164d788483c106-0dd5a070fcdbed-47e1039-1fa400-164d788483e7a",
+    "labels": [],
+    "time": 1532610004000,
+    "sampling_factor": 1,
+    "dataset": "$mixpanel",
+    "properties": {
+      "$browser": "Chrome",
+      "$browser_version": 67,
+      "$city": "Toronto",
+      "$current_url": "https://infograph.venngage.beer/onboarding",
+      "$initial_referrer": "$direct",
+      "$initial_referring_domain": "$direct",
+      "$lib_version": "2.22.4",
+      "$os": "Windows",
+      "$referrer": "https://infograph.venngage.beer/account/subscription",
+      "$referring_domain": "infograph.venngage.beer",
+      "$region": "Ontario",
+      "$screen_height": 1080,
+      "$screen_width": 1920,
+      "mp_country_code": "CA",
+      "mp_lib": "web",
+      "templateId": "b16b7086-59c1-420a-b31c-c45cec439fdc"
+    }
+  },
+  {
+    "name": "Click Onboarding Style Answer",
+    "distinct_id": "164d788483c106-0dd5a070fcdbed-47e1039-1fa400-164d788483e7a",
+    "labels": [],
+    "time": 1532610004000,
+    "sampling_factor": 1,
+    "dataset": "$mixpanel",
+    "properties": {
+      "$browser": "Chrome",
+      "$browser_version": 67,
+      "$city": "Toronto",
+      "$current_url": "https://infograph.venngage.beer/onboarding",
+      "$initial_referrer": "$direct",
+      "$initial_referring_domain": "$direct",
+      "$lib_version": "2.22.4",
+      "$os": "Windows",
+      "$referrer": "https://infograph.venngage.beer/account/subscription",
+      "$referring_domain": "infograph.venngage.beer",
+      "$region": "Ontario",
+      "$screen_height": 1080,
+      "$screen_width": 1920,
+      "mp_country_code": "CA",
+      "mp_lib": "web",
+      "templateId": "d0a4f2f7-9950-4aa9-9f67-da5cf3ad3a12"
+    }
+  },
+  {
+    "name": "Click Onboarding Style Answer",
+    "distinct_id": "164d788483c106-0dd5a070fcdbed-47e1039-1fa400-164d788483e7a",
+    "labels": [],
+    "time": 1532610004000,
+    "sampling_factor": 1,
+    "dataset": "$mixpanel",
+    "properties": {
+      "$browser": "Chrome",
+      "$browser_version": 67,
+      "$city": "Toronto",
+      "$current_url": "https://infograph.venngage.beer/onboarding",
+      "$initial_referrer": "$direct",
+      "$initial_referring_domain": "$direct",
+      "$lib_version": "2.22.4",
+      "$os": "Windows",
+      "$referrer": "https://infograph.venngage.beer/account/subscription",
+      "$referring_domain": "infograph.venngage.beer",
+      "$region": "Ontario",
+      "$screen_height": 1080,
+      "$screen_width": 1920,
+      "mp_country_code": "CA",
+      "mp_lib": "web",
+      "templateId": "653e7920-7e8f-4987-90a9-b1cc7a313cf1"
+    }
+  },
+  {
+    "name": "Click Onboarding Survey Answer",
+    "distinct_id": "164d788483c106-0dd5a070fcdbed-47e1039-1fa400-164d788483e7a",
+    "labels": [],
+    "time": 1532610004000,
+    "sampling_factor": 1,
+    "dataset": "$mixpanel",
+    "properties": {
+      "$browser": "Chrome",
+      "$browser_version": 67,
+      "$city": "Toronto",
+      "$current_url": "https://infograph.venngage.beer/onboarding",
+      "$initial_referrer": "$direct",
+      "$initial_referring_domain": "$direct",
+      "$lib_version": "2.22.4",
+      "$os": "Windows",
+      "$referrer": "https://infograph.venngage.beer/account/subscription",
+      "$referring_domain": "infograph.venngage.beer",
+      "$region": "Ontario",
+      "$screen_height": 1080,
+      "$screen_width": 1920,
+      "mp_country_code": "CA",
+      "mp_lib": "web",
+      "recommendation": {
+        "facetRanking": {
+          "\"categories\":\"presentations\"": 20,
+          "\"colors\":\"dark\"": 1,
+          "\"colors\":\"vibrant\"": 2,
+          "\"complexity\":\"simple\"": 3,
+          "\"content_type\":\"icon\"": 2,
+          "\"content_type\":\"illus\"": 2,
+          "\"styles\":\"fun\"": 2,
+          "\"styles\":\"retro\"": 1
+        },
+        "templateIds": [
+          "d0a4f2f7-9950-4aa9-9f67-da5cf3ad3a12",
+          "b16b7086-59c1-420a-b31c-c45cec439fdc",
+          "653e7920-7e8f-4987-90a9-b1cc7a313cf1"
+        ]
+      },
+      "step": 4,
+      "version": "3"
+    }
+  },
+  {
+    "name": "Finish Onboarding Survey",
+    "distinct_id": "164d788483c106-0dd5a070fcdbed-47e1039-1fa400-164d788483e7a",
+    "labels": [],
+    "time": 1532610004000,
+    "sampling_factor": 1,
+    "dataset": "$mixpanel",
+    "properties": {
+      "$browser": "Chrome",
+      "$browser_version": 67,
+      "$city": "Toronto",
+      "$current_url": "https://infograph.venngage.beer/onboarding",
+      "$initial_referrer": "$direct",
+      "$initial_referring_domain": "$direct",
+      "$lib_version": "2.22.4",
+      "$os": "Windows",
+      "$referrer": "https://infograph.venngage.beer/account/subscription",
+      "$referring_domain": "infograph.venngage.beer",
+      "$region": "Ontario",
+      "$screen_height": 1080,
+      "$screen_width": 1920,
+      "goal": "presentations",
+      "mp_country_code": "CA",
+      "mp_lib": "web",
+      "organization": "sm-business",
+      "role": "marketer",
+      "version": "3"
+    }
+  },
+  {
+    "name": "Load My Templates Page",
+    "distinct_id": "164d788483c106-0dd5a070fcdbed-47e1039-1fa400-164d788483e7a",
+    "labels": [],
+    "time": 1532610005000,
+    "sampling_factor": 1,
+    "dataset": "$mixpanel",
+    "properties": {
+      "$browser": "Chrome",
+      "$browser_version": 67,
+      "$city": "Toronto",
+      "$current_url": "https://infograph.venngage.beer/templates/recommended",
+      "$initial_referrer": "$direct",
+      "$initial_referring_domain": "$direct",
+      "$lib_version": "2.22.4",
+      "$os": "Windows",
+      "$referrer": "https://infograph.venngage.beer/onboarding",
+      "$referring_domain": "infograph.venngage.beer",
+      "$region": "Ontario",
+      "$screen_height": 1080,
+      "$screen_width": 1920,
+      "mp_country_code": "CA",
+      "mp_lib": "web"
+    }
+  },
+  {
+    "name": "Templates Tour Guide",
+    "distinct_id": "164d788483c106-0dd5a070fcdbed-47e1039-1fa400-164d788483e7a",
+    "labels": [],
+    "time": 1532610010000,
+    "sampling_factor": 1,
+    "dataset": "$mixpanel",
+    "properties": {
+      "$browser": "Chrome",
+      "$browser_version": 67,
+      "$city": "Toronto",
+      "$current_url": "https://infograph.venngage.beer/templates/recommended",
+      "$initial_referrer": "$direct",
+      "$initial_referring_domain": "$direct",
+      "$lib_version": "2.22.4",
+      "$os": "Windows",
+      "$referrer": "https://infograph.venngage.beer/onboarding",
+      "$referring_domain": "infograph.venngage.beer",
+      "$region": "Ontario",
+      "$screen_height": 1080,
+      "$screen_width": 1920,
+      "mp_country_code": "CA",
+      "mp_lib": "web"
+    }
+  },
+  {
+    "name": "Click On Create From Templates",
+    "distinct_id": "164d788483c106-0dd5a070fcdbed-47e1039-1fa400-164d788483e7a",
+    "labels": [],
+    "time": 1532610010000,
+    "sampling_factor": 1,
+    "dataset": "$mixpanel",
+    "properties": {
+      "$browser": "Chrome",
+      "$browser_version": 67,
+      "$city": "Toronto",
+      "$current_url": "https://infograph.venngage.beer/templates/recommended",
+      "$initial_referrer": "$direct",
+      "$initial_referring_domain": "$direct",
+      "$lib_version": "2.22.4",
+      "$os": "Windows",
+      "$referrer": "https://infograph.venngage.beer/onboarding",
+      "$referring_domain": "infograph.venngage.beer",
+      "$region": "Ontario",
+      "$screen_height": 1080,
+      "$screen_width": 1920,
+      "category": "recommended",
+      "id": "d0a4f2f7-9950-4aa9-9f67-da5cf3ad3a12",
+      "mp_country_code": "CA",
+      "mp_lib": "web",
+      "multipage": true,
+      "positionIndex": 0,
+      "storage": "",
+      "subcategory": "",
+      "template plan": "free",
+      "thumbnailsLoaded": {
+        "recommended": [
+          {
+            "positionIndex": 0,
+            "templateId": "d0a4f2f7-9950-4aa9-9f67-da5cf3ad3a12"
+          },
+          {
+            "positionIndex": 4,
+            "templateId": "b482fb82-6fe9-452b-a2ad-6df234d229b8"
+          },
+          {
+            "positionIndex": 8,
+            "templateId": "8b9b2af8-8788-4206-85c8-62a1d646d3c1"
+          },
+          {
+            "positionIndex": 12,
+            "templateId": "b85ae840-b16b-4a93-95b6-1d5c962fd554"
+          },
+          {
+            "positionIndex": 1,
+            "templateId": "b16b7086-59c1-420a-b31c-c45cec439fdc"
+          },
+          {
+            "positionIndex": 5,
+            "templateId": "7ddd064c-e5d3-436e-82ee-54a03a0e13ce"
+          },
+          {
+            "positionIndex": 9,
+            "templateId": "493c5038-1b08-4e17-a4f9-308e40a150a6"
+          },
+          {
+            "positionIndex": 13,
+            "templateId": "4582e22c-1b3b-4c4d-aadd-4ef3f3e82095"
+          },
+          {
+            "positionIndex": 2,
+            "templateId": "653e7920-7e8f-4987-90a9-b1cc7a313cf1"
+          },
+          {
+            "positionIndex": 6,
+            "templateId": "c7e01007-711f-4c79-a346-eb14874e9609"
+          },
+          {
+            "positionIndex": 10,
+            "templateId": "1c2da1fc-c9ab-4a76-8c33-34eab962f21a"
+          },
+          {
+            "positionIndex": 14,
+            "templateId": "dc62597d-841b-4199-9680-3a2bf970268a"
+          },
+          {
+            "positionIndex": 3,
+            "templateId": "5054ad02-8014-4851-999e-bc4ab2b74739"
+          },
+          {
+            "positionIndex": 7,
+            "templateId": "d603807c-c175-455b-a604-9fc54d08d40b"
+          },
+          {
+            "positionIndex": 11,
+            "templateId": "74c05f90-4b2d-4f67-b96e-c248a598303b"
+          },
+          {
+            "positionIndex": 15,
+            "templateId": "c44f68ec-4e51-44ba-8cd9-27d1e999fbeb"
+          }
+        ]
+      },
+      "thumbnailsLoadedDuration": 4.477,
+      "title": "Vintage Presentation",
+      "version": "v2"
+    }
+  },
+  {
+    "name": "Finish Editor Tour Guide",
+    "distinct_id": "164d788483c106-0dd5a070fcdbed-47e1039-1fa400-164d788483e7a",
+    "labels": [],
+    "time": 1532610013000,
+    "sampling_factor": 1,
+    "dataset": "$mixpanel",
+    "properties": {
+      "$browser": "Chrome",
+      "$browser_version": 67,
+      "$city": "Toronto",
+      "$current_url": "https://infograph.venngage.beer/edit/89ae8755-0b0d-4d5c-94e0-cd3d1fbf6b28",
+      "$initial_referrer": "$direct",
+      "$initial_referring_domain": "$direct",
+      "$lib_version": "2.22.4",
+      "$os": "Windows",
+      "$referrer": "https://infograph.venngage.beer/templates/recommended",
+      "$referring_domain": "infograph.venngage.beer",
+      "$region": "Ontario",
+      "$screen_height": 1080,
+      "$screen_width": 1920,
+      "mp_country_code": "CA",
+      "mp_lib": "web",
+      "step": 0,
+      "tourGuideVersion": "experiment-1"
+    }
+  },
+  {
+    "name": "Click On Publish",
+    "distinct_id": "164d788483c106-0dd5a070fcdbed-47e1039-1fa400-164d788483e7a",
+    "labels": [],
+    "time": 1532610014000,
+    "sampling_factor": 1,
+    "dataset": "$mixpanel",
+    "properties": {
+      "$browser": "Chrome",
+      "$browser_version": 67,
+      "$city": "Toronto",
+      "$current_url": "https://infograph.venngage.beer/edit/89ae8755-0b0d-4d5c-94e0-cd3d1fbf6b28",
+      "$initial_referrer": "$direct",
+      "$initial_referring_domain": "$direct",
+      "$lib_version": "2.22.4",
+      "$os": "Windows",
+      "$referrer": "https://infograph.venngage.beer/templates/recommended",
+      "$referring_domain": "infograph.venngage.beer",
+      "$region": "Ontario",
+      "$screen_height": 1080,
+      "$screen_width": 1920,
+      "mp_country_code": "CA",
+      "mp_lib": "web",
+      "templateId": "d0a4f2f7-9950-4aa9-9f67-da5cf3ad3a12"
+    }
+  },
+   {
+    "name": "Upgrade Premium",
+    "distinct_id": "16524864a21783-078b3ce667e709-47e1039-1fa400-16524864a2241d",
+    "labels": [],
+    "time": 1533901761000,
+    "sampling_factor": 1,
+    "dataset": "$mixpanel",
+    "properties": {
+      "$browser": "Chrome",
+      "$browser_version": 67,
+      "$city": "Toronto",
+      "$current_url": "https://infograph.venngage.beer/account/subscription",
+      "$initial_referrer": "https://infograph.venngage.beer/edit/6120f280-b65f-49bc-9528-9cb30146468e",
+      "$initial_referring_domain": "infograph.venngage.beer",
+      "$lib_version": "2.22.4",
+      "$os": "Windows",
+      "$referrer": "https://infograph.venngage.beer/signup/premium/quarterly",
+      "$referring_domain": "infograph.venngage.beer",
+      "$region": "Ontario",
+      "$screen_height": 1080,
+      "$screen_width": 1920,
+      "mp_country_code": "CA",
+      "mp_lib": "web",
+      "mp_processing_time_ms": 1533916161952
+    }
+  },
+  {
+    "name": "Upgrade Premium Modal",
+    "distinct_id": "16524864a21783-078b3ce667e709-47e1039-1fa400-16524864a2241d",
+    "labels": [],
+    "time": 1533901757000,
+    "sampling_factor": 1,
+    "dataset": "$mixpanel",
+    "properties": {
+      "$browser": "Chrome",
+      "$browser_version": 67,
+      "$city": "Toronto",
+      "$current_url": "https://infograph.venngage.beer/account/subscription",
+      "$initial_referrer": "https://infograph.venngage.beer/edit/6120f280-b65f-49bc-9528-9cb30146468e",
+      "$initial_referring_domain": "infograph.venngage.beer",
+      "$lib_version": "2.22.4",
+      "$os": "Windows",
+      "$referrer": "https://infograph.venngage.beer/signup/premium/quarterly",
+      "$referring_domain": "infograph.venngage.beer",
+      "$region": "Ontario",
+      "$screen_height": 1080,
+      "$screen_width": 1920,
+      "mp_country_code": "CA",
+      "mp_lib": "web",
+      "mp_processing_time_ms": 1533916167062
+    }
+  },
+  {
+    "name": "Click Navigation",
+    "distinct_id": "16524864a21783-078b3ce667e709-47e1039-1fa400-16524864a2241d",
+    "labels": [],
+    "time": 1533902307000,
+    "sampling_factor": 1,
+    "dataset": "$mixpanel",
+    "properties": {
+      "$browser": "Chrome",
+      "$browser_version": 67,
+      "$city": "Toronto",
+      "$current_url": "https://infograph.venngage.beer/templates/recommended",
+      "$initial_referrer": "https://infograph.venngage.beer/edit/6120f280-b65f-49bc-9528-9cb30146468e",
+      "$initial_referring_domain": "infograph.venngage.beer",
+      "$lib_version": "2.22.4",
+      "$os": "Windows",
+      "$referrer": "https://infograph.venngage.beer/onboarding",
+      "$referring_domain": "infograph.venngage.beer",
+      "$region": "Ontario",
+      "$screen_height": 1080,
+      "$screen_width": 1920,
+      "category": "layouts",
+      "mp_country_code": "CA",
+      "mp_lib": "web",
+      "mp_processing_time_ms": 1533916707284,
+      "subcategory": "",
+      "thumbnailsLoaded": {
+        "recommended": [
+          {
+            "positionIndex": 0,
+            "templateId": "77613e4d-7d4b-4b14-b317-85cc3cad32d1"
+          },
+          {
+            "positionIndex": 4,
+            "templateId": "73451f27-a2f4-483c-ad6a-d8859ee2785c"
+          },
+          {
+            "positionIndex": 8,
+            "templateId": "778315fc-7070-4b01-a36a-c82ebeb9de9c"
+          },
+          {
+            "positionIndex": 1,
+            "templateId": "0313cd09-9095-45a6-9299-01904dd71093"
+          },
+          {
+            "positionIndex": 5,
+            "templateId": "519ee526-5553-4c1b-b2dc-b51f646f1bb2"
+          },
+          {
+            "positionIndex": 9,
+            "templateId": "ec0680e7-5e4e-4d45-a373-c730cd5daaa0"
+          },
+          {
+            "positionIndex": 2,
+            "templateId": "428b5552-8502-43a2-b457-43544c89f65b"
+          },
+          {
+            "positionIndex": 6,
+            "templateId": "29de1644-bbdd-4ade-ae6f-b1558a686801"
+          },
+          {
+            "positionIndex": 10,
+            "templateId": "5b3bf1df-eb1e-4d5b-a9fa-e09e01673a6b"
+          },
+          {
+            "positionIndex": 3,
+            "templateId": "b5cb4fcf-3122-4345-a7b8-38af238a074e"
+          },
+          {
+            "positionIndex": 7,
+            "templateId": "9219fddd-906f-419f-8d6f-f64831d669a4"
+          },
+          {
+            "positionIndex": 11,
+            "templateId": "507c1ed3-774b-4e89-ac73-d9dc33cb6a66"
+          }
+        ]
+      },
+      "thumbnailsLoadedDuration": 6.237
+    }
+  },
+  {
+    "name": "Click On Create From Blank",
+    "distinct_id": "16524864a21783-078b3ce667e709-47e1039-1fa400-16524864a2241d",
+    "labels": [],
+    "time": 1533902309000,
+    "sampling_factor": 1,
+    "dataset": "$mixpanel",
+    "properties": {
+      "$browser": "Chrome",
+      "$browser_version": 67,
+      "$city": "Toronto",
+      "$current_url": "https://infograph.venngage.beer/templates/layouts",
+      "$initial_referrer": "https://infograph.venngage.beer/edit/6120f280-b65f-49bc-9528-9cb30146468e",
+      "$initial_referring_domain": "infograph.venngage.beer",
+      "$lib_version": "2.22.4",
+      "$os": "Windows",
+      "$referrer": "https://infograph.venngage.beer/onboarding",
+      "$referring_domain": "infograph.venngage.beer",
+      "$region": "Ontario",
+      "$screen_height": 1080,
+      "$screen_width": 1920,
+      "id": "blank",
+      "mp_country_code": "CA",
+      "mp_lib": "web",
+      "mp_processing_time_ms": 1533916709389,
+      "storage": "",
+      "version": "v2"
+    }
+  }
+]

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Test Run]">
+  <test thread-count="5" parallel="tests" name="Mixpanel(failed)">
+    <classes>
+      <class name="Testcase.MP_StaticTemplateBuz2Download">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="e_Download"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- Testcase.MP_StaticTemplateBuz2Download -->
+      <class name="Testcase.MP_StaticTemplateFree2Publish">
+        <methods>
+          <include name="e_ClickOnPublish"/>
+          <include name="verifyEventsGenerated"/>
+          <include name="e_LoadStaticTemplatesPage"/>
+          <include name="e_ClickOnCreateFromTemplates"/>
+          <include name="afterClass"/>
+          <include name="e_FinishOnbSurvey"/>
+          <include name="e_OnbSurveyAnwser"/>
+          <include name="e_ClickNavigation"/>
+          <include name="e_ClickSignUpFromTemplates"/>
+          <include name="e_FinishEditorTourGuide"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- Testcase.MP_StaticTemplateFree2Publish -->
+      <class name="Testcase.MP_StaticTemplatePre2Share">
+        <methods>
+          <include name="e_ClickSignUpFromTemplates"/>
+          <include name="beforeClass"/>
+          <include name="e_ClickNavigation"/>
+          <include name="e_ClickOnCreateFromTemplates"/>
+          <include name="e_FinishEditorTourGuide"/>
+          <include name="e_FinishOnbSurvey"/>
+          <include name="e_OnbSurveyAnwser"/>
+          <include name="e_Share"/>
+          <include name="e_ClickOnupgrade"/>
+          <include name="afterClass"/>
+          <include name="verifyEventsGenerated"/>
+          <include name="e_LoadStaticTemplatesPage"/>
+        </methods>
+      </class> <!-- Testcase.MP_StaticTemplatePre2Share -->
+      <class name="Testcase.MP_QPreSignUp2Publish">
+        <methods>
+          <include name="verifyEventsGenerated"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- Testcase.MP_QPreSignUp2Publish -->
+    </classes>
+  </test> <!-- Mixpanel(failed) -->
+</suite> <!-- Failed suite [Test Run] -->

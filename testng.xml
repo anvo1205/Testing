@@ -1,0 +1,81 @@
+<suite name="Mixpanel Tests"	parallel="false">
+	<!---->
+	<test name="MP_BuzSignUp2Publish">
+	<classes>
+		<class name="Testcase.MP_BuzSignUp2Publish">
+		</class>
+		</classes>
+	</test>
+	<test name="MP_FreeSignUp2Publish">
+	<classes>
+		<class name="Testcase.MP_FreeSignUp2Publish">
+		</class>
+		</classes>
+	</test>
+	<test name="MP_MBuzSignUp2I_PDFDownload">
+	<classes>
+		<class name="Testcase.MP_MBuzSignUp2I_PDFDownload">
+		</class>
+		</classes>
+	</test>
+	<test name="MP_MEduSignUp2ShareByEmail">
+	<classes>
+		<class name="Testcase.MP_MEduSignUp2ShareByEmail">
+		</class>
+		</classes>
+	</test>
+	<test name="MP_MPreSignUp2PNGDownload">
+	<classes>
+		<class name="Testcase.MP_MPreSignUp2PNGDownload">
+		</class>
+		</classes>
+	</test>
+	<test name="MP_QBuzSignUp2PNGHDDownload">
+	<classes>
+		<class name="Testcase.MP_QBuzSignUp2PNGHDDownload">
+		</class>
+		</classes>
+	</test>
+	<test name="MP_QPreSignUp2Publish">
+	<classes>
+		<class name="Testcase.MP_QPreSignUp2Publish">
+		</class>
+		</classes>
+	</test>
+	<test name="MP_YBuzSignUp2PDFDownload">
+	<classes>
+		<class name="Testcase.MP_YBuzSignUp2PDFDownload">
+		</class>
+		</classes>
+	</test>
+	<test name="MP_YEduSignUp2ShareToTeam">
+	<classes>
+		<class name="Testcase.MP_YEduSignUp2ShareToTeam">
+		</class>
+		</classes>
+	</test>
+	<test name="MP_YPreSignUp2ShareByLink">
+	<classes>
+		<class name="Testcase.MP_YPreSignUp2ShareByLink">
+		</class>
+		</classes>
+	</test>
+	<test name="MP_StaticTemplateFree2Publish">
+	<classes>
+		<class name="Testcase.MP_StaticTemplateFree2Publish">
+		</class>
+		</classes>
+	</test>
+	<test name="MP_StaticTemplatePre2Share">
+	<classes>
+		<class name="Testcase.MP_StaticTemplatePre2Share">
+		</class>
+		</classes>
+	</test>
+	<test name="MP_StaticTemplateBuz2Download">
+	<classes>
+		<class name="Testcase.MP_StaticTemplateBuz2Download">
+		</class>
+		</classes>
+	</test>
+</suite>
